@@ -6,4 +6,7 @@ for i in range(1, 12):
 
 def suma(a, b):
     return a + b
+
+def resta(a, b):
+    return a - b
     
