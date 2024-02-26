@@ -1,7 +1,6 @@
 print("Hola mundo")
 
-for i in range(1, 12):
-    
+for i in range(1, 12):    
     print(i**2)
 
 def suma(a, b):
